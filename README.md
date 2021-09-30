@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmody1987
+- 👋 Hi, I’m @dmody1
 - 👀 I’m interested in database engineering and AWS.
 - 🌱 I’m currently learning AWS architecture. 
 - 💞️ I’m looking to collaborate on automation and database management and availbility.
